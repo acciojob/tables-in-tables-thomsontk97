@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+td,th{
+	border:2px solid black;
+	text-align:center;
+	vertical-align:center;
+}
